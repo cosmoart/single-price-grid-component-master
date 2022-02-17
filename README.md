@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-OHVmE0mI-)
 - Live Site URL: [Add live site URL here](https://cosmoart.github.io/single-price-grid-component-master/)
 
 ## My process

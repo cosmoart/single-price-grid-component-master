@@ -3,7 +3,7 @@
 
 <a href="https://www.frontendmentor.io/profile/CosmoArt"><img src="https://img.shields.io/badge/-Frontend%20Mentor-brightgreen?style=for-the-badge" alt="Frontend Mentor" /></a>
 <a href="https://www.instagram.com/cosmo_art0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://cosmoart.github.io/cosmoart/index.html"><img src="https://img.shields.io/badge/-My%20Website-blueviolet?style=for-the-badge" alt="My Website" /></a>
+<a href="https://cosmoart.github.io"><img src="https://img.shields.io/badge/-My%20Website-blueviolet?style=for-the-badge" alt="My Website" /></a>
 <a href="https://www.discord.com/users/734087835472232559/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://twitter.com/CosmoArt0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 
